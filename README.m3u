@@ -1,8 +1,6 @@
 
-#EXTM3U
-
-#EXTINF:1, [B][COLOR red]About Us[/B][/COLOR]
+#EXTINF:1, [B][COLOR green]About Us[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue]We Are A Team Of People (Doctor Bet, d2bleym@yahoo.com, Mr.Never Loose) Who Love Our Hobby And Make It As A Job So Far...We Found The Way To Do That And Make The DecisionTo Help People Like Us, Like You..Who Loves This Way..BETTING AND WIN !!! Just Follow Us Through Our Daily Tips And Won.Our Way And Strategy, Is Not To Be Rich In A Day, But To Win Every Time With Any Odd We Choose. [/COLOR]
+#EXTINF:1, [COLOR green]We Are A Team Of People (Doctor Bet, d2bleym@yahoo.com, Mr.Never Loose) Who Love Our Hobby And Make It As A Job So Far...We Found The Way To Do That And Make The DecisionTo Help People Like Us, Like You..Who Loves This Way..BETTING AND WIN !!! Just Follow Us Through Our Daily Tips And Won.Our Way And Strategy, Is Not To Be Rich In A Day, But To Win Every Time With Any Odd We Choose.[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
